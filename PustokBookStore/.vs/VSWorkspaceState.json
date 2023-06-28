@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PustokBookStore",
+    "\\PustokBookStore\\Areas",
+    "\\PustokBookStore\\Areas\\Manage",
+    "\\PustokBookStore\\Areas\\Manage\\Controllers",
+    "\\PustokBookStore\\Helpers",
+    "\\PustokBookStore\\Views",
+    "\\PustokBookStore\\Views\\Home",
+    "\\PustokBookStore\\wwwroot",
+    "\\PustokBookStore\\wwwroot\\assets",
+    "\\PustokBookStore\\wwwroot\\assets\\js"
+  ],
+  "SelectedNode": "\\PustokBookStore.sln",
+  "PreviewInSolutionExplorer": false
+}
